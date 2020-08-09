@@ -24,9 +24,17 @@ Print:
 * pi3 base v3.2.stl
 * pi3 and pi4 stop v3.2.stl
 
+### Pi Zero
+Print:
+* pi zero base v0.2.stl
+* pi zero lid v0.2.stl
+
 ### Tools
 
 These files provide tools to help install the pi and hat in the cases:
 
 * tool to hold nut in place.stl
-* wrench to insert for standoffs.stl
+* wrench to insert standoffs wide.stl
+  * for standoffs which are ~4.65mm between parallel sides
+* wrench to insert standoffs narrow.stl
+  * for standoffs which are ~4mm between parallel sides
